@@ -1,1 +1,1 @@
-ls -A -m -t -F -e | sed 's/ //g'
+ls -A -m -t -F
