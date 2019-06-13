@@ -1,1 +1,1 @@
-ls -A -m -t -F | sed '-e'
+ls -A -m -t -F | sed 
