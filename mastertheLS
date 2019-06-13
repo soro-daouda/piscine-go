@@ -1,1 +1,1 @@
-ls -A -m -t -F | sed -e "s/ //g" fichier >sortie 
+ls -A -m -t -F | sed -e "s/ //g" 
